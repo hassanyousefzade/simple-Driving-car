@@ -15,7 +15,6 @@ Of course, this device has many capabilities that can be utilized. It is beyond 
 
 ![arduino](arduino.png) ![kinect](https://github.com/hassanyousefzade/simple-Driving-car/assets/48446312/81e7296f-ea2a-4651-aefa-5cc17a8cd7ce)
 
-![kinect](https://github.com/hassanyousefzade/simple-Driving-car/assets/48446312/81e7296f-ea2a-4651-aefa-5cc17a8cd7ce)
 
 
 ## General description
