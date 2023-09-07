@@ -33,7 +33,7 @@ This project consists of two codes. The first code, written in the Python progra
 
 ![monitor_GIF)](monitor_GIF.gif)
 
-![robot_GIF (1)](robot_GIF (1).gif)
+![robot_GIF(1)](robot_GIF(1).gif)
 
 
 
