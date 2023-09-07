@@ -31,9 +31,9 @@ This project consists of two codes. The first code, written in the Python progra
 
 ## final result
 
-![monitor_GIF)](monitor_GIF.gif)
+![monitor_GIF)](monitor_GIF.gif) ![robot_GIF](robot_GIF.gif)
 
-![robot_GIF](robot_GIF.gif)
+
 
 
 
