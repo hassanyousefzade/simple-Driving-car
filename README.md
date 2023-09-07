@@ -15,5 +15,7 @@ Of course, this device has many capabilities that can be utilized. It is beyond 
 
 ![arduino](arduino.png) ![kinect](https://github.com/hassanyousefzade/simple-Driving-car/assets/48446312/81e7296f-ea2a-4651-aefa-5cc17a8cd7ce)
 
+## General description
+As shown in the figure below, this robot is designed to measure the distance between two lines and subtract them from each other as feedback for the desired objective, which is to stay between the lines while maintaining a consistent distance from both sides.
 
 
