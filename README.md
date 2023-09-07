@@ -23,5 +23,6 @@ As shown in the figure below, this robot is designed to measure the distance bet
 ![road_monitor](road_monitor.png) 
 
 This difference was measured through image processing, and since it is a heavy task that cannot be performed by Arduino, it was done using a computer. The information (delta r) is sent to Arduino through serial communication between the computer and Arduino. In the top figure, r1 represents the distance of the robot from the left side, r2 represents the distance of the robot from the right side, and teta is the rotational angle that needs to be corrected. In Arduino, commands are given to the motor, specifying the time and amount of rotation.
+
 ![control_image](control_image.png) 
 
