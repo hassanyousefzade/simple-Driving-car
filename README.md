@@ -26,4 +26,6 @@ This difference was measured through image processing, and since it is a heavy t
 
 ![control_image](control_image.png) 
 
+
 This project consists of two codes. The first code, written in the Python programming language, handles control tasks, image processing, and serial communication. The second code is related to Arduino and is written in C++.
+
