@@ -13,9 +13,7 @@ In this project, as expected and shown in the accompanying video, there is a rob
 Of course, this device has many capabilities that can be utilized. It is beyond the scope of this discussion, and one can search for it on the internet. Additionally, the Arduino Nano has been used as the robot controller.
 
 
-![arduino](arduino.png)
-
-![kinect](https://github.com/hassanyousefzade/simple-Driving-car/assets/48446312/81e7296f-ea2a-4651-aefa-5cc17a8cd7ce)
+![arduino](arduino.png) ![kinect](https://github.com/hassanyousefzade/simple-Driving-car/assets/48446312/81e7296f-ea2a-4651-aefa-5cc17a8cd7ce)
 
 
 
